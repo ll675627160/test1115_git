@@ -1,1 +1,5 @@
-ä¸VN
+<<<<<<< .mine
+²»VN
+=======
+ghjghjgh
+>>>>>>> .theirs
